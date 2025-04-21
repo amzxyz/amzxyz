@@ -24,7 +24,7 @@
 
 ---
 
-### 2. [rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - 基础版输入方案
+### 2. [rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - 基础版输入方案(全拼用户最佳选择)
 ​**​差异化特性：​**​
 - ✨ 词库编码为声调全拼，可以通过这个基础库支持任何全拼或者双拼输入
 - ✨ 只支持单字状态下`引导反查定位候选字
