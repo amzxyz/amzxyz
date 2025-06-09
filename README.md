@@ -41,7 +41,7 @@
 
 ---
 
-### 1. [rime_wanxiang_pro](https://github.com/amzxyz/rime_wanxiang_pro) - 辅助码增强版输入方案
+### 1. [rime_wanxiang_pro](https://github.com/amzxyz/rime_wanxiang_pro) - 双拼辅助码增强版输入方案
 ​**​核心功能：​**​
 - ✨ 支持8种主流双拼（自然码/小鹤双拼/微软双拼/搜狗双拼/紫光双拼/智能ABC双拼/国标双拼/自然龙双拼（声调布局）等，用户也可以通过拼写运算获得任意双拼）
 - ✨ 提供8种辅助码体系（自然码/小鹤/墨奇/汉心/简单鹤/五笔前2/仓颉/虎码首末）
