@@ -27,7 +27,7 @@
 ---
 
 ### 2. [rime-wanxiang](https://github.com/amzxyz/rime_wanxiang) -万象拼音输入方案
-**​① wanxiang-base - 标准版输入方案(全拼用户最佳选择)**
+**​① wanxiang-base - 标准版输入方案(全拼用户最佳选择)** 
 ​
 ​**​差异化特性：​**​
 - ✨ 词库编码为声调全拼，可以通过这个基础库支持任何**双拼或者全拼**输入
