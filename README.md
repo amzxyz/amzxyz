@@ -6,7 +6,7 @@
 
 ## 仓库导航
 
-### 1. [rime-wanxiang](https://github.com/amzxyz/rime-wanxiang-data) - 语法模型
+### 1. [rime-wanxiang-data](https://github.com/amzxyz/rime-wanxiang-data) - 语法模型
 ​**​技术亮点：​**​
 - 🧠 48GB多领域语料训练（新闻/法律/文学/社交等）
 - 📊 多级n-gram模型
